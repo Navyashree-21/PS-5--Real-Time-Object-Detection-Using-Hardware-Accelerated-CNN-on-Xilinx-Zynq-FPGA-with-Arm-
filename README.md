@@ -2,7 +2,7 @@
 # FPGA-Accelerated Image Classification (Hybrid CPU–FPGA)
 
 ## Overview
-This project implements a hybrid ARM + FPGA image classification system using a custom CNN-inspired accelerator on a Xilinx Zynq platform (PYNQ-Z2 / ZedBoard).
+This project implements a hybrid ARM + FPGA image classification system using a custom CNN-inspired accelerator on a Xilinx Zynq platform (PYNQ-Z2 ).
 
 The FPGA accelerates feature scoring, while the ARM CPU performs preprocessing and KNN-based classification.
 
