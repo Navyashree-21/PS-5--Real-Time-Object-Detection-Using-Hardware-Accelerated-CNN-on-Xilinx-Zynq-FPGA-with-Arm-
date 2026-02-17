@@ -76,7 +76,17 @@ The FPGA accelerates feature scoring, while the ARM CPU performs preprocessing a
 ## Dataset
 - CIFAR-style dataset
 - Classes used:
-  - bird, cat, deer, dog, frog, horse
+ 0 → airplane
+1 → automobile
+2 → bird
+3 → cat
+4 → deer
+5 → dog
+6 → frog
+7 → horse
+8 → ship
+9 → truck
+
 - Image size: 32×32
 - Full dataset stored on SD card (not uploaded to GitHub)
 
